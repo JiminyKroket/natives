@@ -11,7 +11,7 @@ void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle, int doorLockStatus);
 ```
 1   
 2 - CARLOCK_LOCKED (locked)  
-3   
+3 - PLAYER_IGNORE (possibly locked, player ignores car)
 4 - CARLOCK_LOCKED_PLAYER_INSIDE (can get in, can't leave)  
 (maybe, these are leftovers from GTA:VC)  
 5   
