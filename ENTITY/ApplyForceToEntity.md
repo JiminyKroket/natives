@@ -40,7 +40,7 @@ Research/documentation on the gtaforums can be found [here](https://gtaforums.co
 * **isDirectionRel**: (Usually false) Vector defined in local (body-fixed) coordinate frame
 * **ignoreUpVec**: (Usually true)
 * **isForceRel**: (Usually true) When true, force gets multiplied with the objects mass and different objects will have the same acceleration
-* **p12**: (Usually false)
+* **p12**: (Usually false) When true, creates audio feedback from object force is applied to (specific testing done with vehicles, makes metal on metal grinding noise)
 * **p13**: (Usually true)
 
 
